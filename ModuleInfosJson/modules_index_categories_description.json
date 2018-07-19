@@ -7,7 +7,7 @@
   "version":			1.0,
   "req_core_version":	3.0,
   "license":			"GPL 2 - MIT",
-  "tag":			    "template, categories, no script, header",
+  "tag":			    "template, categories, description",
   "install":            "sources/template/Default/",
   "module_directory":   "modules_index_categories",
   "apps_name":          "",
