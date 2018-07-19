@@ -1,0 +1,28 @@
+{
+  "title":			"modules_index_categories_description",
+  "type":           "modules_index_categories",
+  "vendor":			"ClicShopping",
+  "is_free":   "Yes",
+  "website_link_to_sell" : "",
+  "version":			1.0,
+  "req_core_version":	3.0,
+  "license":			"GPL 2 - MIT",
+  "tag":			    "template, categories, no script, header",
+  "install":            "sources/template/Default/",
+  "module_directory":   "modules_index_categories",
+  "apps_name":          "",
+  "type_module":      "template",
+  "dependance":       "",
+  "description":        "This module display a description inside the categories (text or image) managed by the categories admin",
+  "image":            "ModuleInfosJson/image.png",
+
+  "authors": [
+    {
+      "name":		    "ClicShopping Team",
+      "company":	    "Innov-concept",
+      "email":	      "",
+      "website":	    "http://www.clicshopping.com",
+      "Community":	  "http://www.clicshopping.org"
+    }
+  ]
+}
