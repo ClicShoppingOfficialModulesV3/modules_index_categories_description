@@ -29,3 +29,5 @@ Implementation:
 - Activate the module Design / Store Index / Categories
 
 - Copy the modules_index_categories_description.json into ClicShopping/Work/Cache/Github (manual installation)
+
+![image](https://github.com/ClicShoppingOfficialModulesV3/modules_index_categories_description/blob/master/ModuleInfosJson/image.png)
