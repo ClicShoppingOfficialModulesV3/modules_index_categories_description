@@ -30,6 +30,6 @@ Implementation:
 
 - Copy the modules_index_categories_description.json into ClicShopping/Work/Cache/Github (manual installation)
 
-Marketplace link : https://www.clicshopping.org/forum/files/file/57-modules-index-categories-description/
+Marketplace link : https://www.clicshopping.org/forum/files/file/50-modules-index-categories-description/
 
 ![image](https://github.com/ClicShoppingOfficialModulesV3/modules_index_categories_description/blob/master/ModuleInfosJson/image.png)
