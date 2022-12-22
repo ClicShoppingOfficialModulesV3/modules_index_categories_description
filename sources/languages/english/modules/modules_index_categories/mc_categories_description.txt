@@ -1,0 +1,4 @@
+
+ module_index_categories_description_title = Do  you want to display inside the categories the description of the categorie ?
+ module_index_categories_description = Display inside the categories the descritpion of the categorie.
+
